@@ -1,0 +1,26 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "pusher/pusher-php-server": "^7.2",
+        "vlucas/phpdotenv": "^5.6"
+    },
+
+    "autoload": {
+
+      "classmap": [
+
+          "Classes"
+
+      ]
+
+    },
+
+
+
+    "authors": [
+        {
+            "name": "King Praise",
+            "email": "kingpraise15@gmail.com"
+        }
+    ]
+}
